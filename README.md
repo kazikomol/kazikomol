@@ -4,18 +4,6 @@
 
 <h1 align="center">Hello! I am Kazi Zahir Ahamed Komol,</h1>
 <h3 align="center"> a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a leading university in Bangladesh. I am actively developing my skills in programming, web development, and emerging technologies like Artificial Intelligence (AI).
- 
-Core Competencies:
- 
-Web Technologies:
- I have a solid understanding of HTML5, CSS3, ES6, and basic JavaScript. I am continuously learning new technologies and languages to build responsive, user-friendly, and efficient web applications.
- 
-Programming Languages:
- I am familiar with C/C++ and Java, which helps me strengthen my logical thinking and problem-solving abilities.
-
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kazikomol&label=Profile%20views&color=0e75b6&style=flat" alt="kazikomol" />
 </p>
