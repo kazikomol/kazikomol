@@ -1,4 +1,4 @@
-![Banner Image](Black White Typographic Personal Photo LinkedIn Background Photo.jpg).
+
 
 
 <h1 align="center">Hi 👋, I'm Kazi Zahir Ahamed Komol</h1>
