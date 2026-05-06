@@ -2,38 +2,37 @@
   <img src="https://raw.githubusercontent.com/kazikomol/kazikomol/main/Black%20White%20Typographic%20Personal%20Photo%20LinkedIn%20Background%20Photo.jpg" alt="banner" />
 </p>
 
-<h1 align="center">Hello! I am Kazi Zahir Ahamed Komol,</h1>
-<h3 align="center"> a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a leading university in Bangladesh. I am actively developing my skills in programming, web development, and emerging technologies like Artificial Intelligence (AI).
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazikomol&label=Profile%20views&color=0e75b6&style=flat" alt="kazikomol" />
-</p>
+# Hi there, I'm Kazi Zahir Ahamed Komol 👋
 
----
+I am an ambitious **Web Developer** and CSE student from Bangladesh, driven by a passion for solving complex technical challenges. I specialize in building responsive, functional web applications and exploring the architectural side of software engineering.
 
-### 🌱 Currently Learning
-- React.js ⚛️  
-- Next.js 🚀  
-
-### 📫I can be reached through the following channel:
-- Email: **kazikomol2@gmail.com**
-
----
-
-### 🤝 Connect with Me
-
-<p align="left"><a href="www.linkedin.com/in/kazi-komol" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a><a href="https://www.facebook.com/kazikomol.komol" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a><a href="https://instagram.com/kazi_komol" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a></p>
-
----
+### 🚀 What I'm working on
+- 🛠️ Developing a **GitHub Issues Tracker** using React and Tailwind CSS.
+- ⚡ Deepening my knowledge in **Database Management Systems** (3NF/BCNF) and **Network Architecture**.
+- ⚛️ Refining my skills in **React.js** and **Next.js**.
 
 ### 💻 Languages and Tools
-
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,vite,mysql,postgres,mongodb,windows,powershell" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazikomol&show_icons=true&locale=en&layout=compact" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kazikomol&show_icons=true&locale=en" height="165" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
+
+---
+
+### 🤝 Connect with Me
+- 📧 **Email:** [kazikomol2@gmail.com](mailto:kazikomol2@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) *(Replace with your link)*
+
+---
+
+### 🎨 Aesthetics & Inspiration
+When I'm not coding, I enjoy exploring technical designs and anime-inspired visual aesthetics. I believe a clean UI is just as important as clean code.
+
+*"Driven by a passion for solving complex technical challenges."*
