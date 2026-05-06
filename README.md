@@ -31,24 +31,22 @@ Hello! I'm **Kazi Zahir Ahamed Komol**, a passionate Computer Science student fr
 
 
 ### 📈 GitHub Stats & Insights
+
 <!-- <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kazikomol.&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kazikomol.&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazikomol&show_icons=true&theme=radical" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazikomol&layout=compact&theme=radical&langs_count=8" height="170" alt="languages graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazikomol&theme=radical" alt="streak stats" />
 </p> -->
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.snapchat.com/add/YOUR_SNAPCHAT" target="blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/kazi-komol/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kazikomol2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
