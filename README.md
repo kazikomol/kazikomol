@@ -15,16 +15,16 @@ Hello! I'm **Kazi Zahir Ahamed Komol**, a passionate Computer Science student fr
 ---
 
 ### ⚡ Current Activities
-- 🛠️ Working on a **GitHub Issues Tracker** using React and Tailwind CSS 4.
+
 - 🚀 Exploring **Next.js** to build high-performance web applications.
 - 📊 Deep diving into **Database Management Systems** (Normalization & Relational Algebra).
-- 🎨 Designing brand assets for **TechWave**, focusing on tech insights and productivity.
+
 
 ---
 
 ### 💻 Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,mysql,postgres,mongodb,git,github,windows,powershell" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,mysql,mongodb,git,github" />
 </p>
 
 ---
