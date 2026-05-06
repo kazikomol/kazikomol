@@ -9,8 +9,12 @@
 
 <h1 align="center">Web Developer & Tech Enthusiast 🚀</h1>
 
-### 🙋‍♂️ About Me
-Hello! I'm **Kazi Zahir Ahamed Komol**, a passionate Computer Science student from Bangladesh. I am driven by a passion for solving complex technical challenges and building modern, efficient web applications. I love exploring the balance between clean code and aesthetic design.
+
+### 👨‍💻 About Me
+I am a tech enthusiast and an ambitious **Web Developer** from Bangladesh. Currently, I am pursuing my **Bachelor's degree in Computer Science & Engineering (CSE)** at a leading university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.
+
+- 🎓 Currently studying **Computer Science & Engineering**.
+- 🌐 Focused on **Full-Stack Web Development** and emerging technologies like **AI**.
 
 ---
 
