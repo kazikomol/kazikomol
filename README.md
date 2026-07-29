@@ -1,59 +1,116 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kazikomol/kazikomol/main/Black%20White%20Typographic%20Personal%20Photo%20LinkedIn%20Background%20Photo.jpg" alt="banner" />
-</p>
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<p align="center">
-  <!-- ব্যানার ইমেজ: আপনার পছন্দের অ্যানিমে থিম বা টেক ব্যানার এখানে ব্যবহার করুন -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Kazi%20Zahir%20Ahamed%20Komol&fontSize=50&animation=fadeIn" width="100%" />
-</p>
+###
 
-<h1 align="center">Web Developer & Tech Enthusiast 🚀</h1>
+<h5 data-importer="text" align="left">I am a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a leading university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.</h6>
 
+###
 
-### 👨‍💻 About Me
-I am a tech enthusiast and an ambitious **Web Developer** from Bangladesh. Currently, I am pursuing my **Bachelor's degree in Computer Science & Engineering (CSE)** at a leading university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.
+<h2 data-importer="text" align="left">About me</h2>
 
-- 🎓 Currently studying **Computer Science & Engineering**.
-- 🌐 Focused on **Full-Stack Web Development** and emerging technologies like **AI**.
+###
 
----
+<h5 data-importer="text" align="left">🔭   I’m currently working on a turf management system.<br>🤝   I’m looking to collaborate on uniq project  which can be solve problem.<br>🌱   I’m currently learning Node.js and Figma ;<br>👨🏻‍💻   Most of my projects are available on Github<br>💬   Ask me about anything tech related, I am happy to help;</h6>
 
-### ⚡ Current Activities
+###
 
-- 🚀 Exploring **Next.js** to build high-performance web applications.
-- 📊 Deep diving into **Database Management Systems** (Normalization & Relational Algebra).
+<h2 data-importer="text" align="left">Programming Languages</h2>
 
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-### 💻 Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,mysql,mongodb,git,github" />
-</p>
+###
 
----
+<h2 data-importer="text" align="left">Libraries,Frameworks and more...</h2>
 
+###
 
-### 📈 GitHub Stats & Insights
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazikomol&show_icons=true&theme=radical" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazikomol&layout=compact&theme=radical&langs_count=8" height="170" alt="languages graph" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazikomol&theme=radical" alt="streak stats" />
-</p> -->
+<h2 data-importer="text" align="left">Database</h2>
 
----
+###
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/kazi-komol/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kazikomol2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
----
+###
 
-<p align="center">
-  <i>"Driven by a passion for solving complex technical challenges."</i>
-</p>
+<h2 data-importer="text" align="left">Design</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Tools</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kazikomol/kazikomol/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/kazikomol/kazikomol/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Let's Connect 🤝</h2>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/kazi-komol/?skipRedirect=true" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="kazikomol2@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="01952299873" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/kazikomol/kazikomol/snake-output/snake.svg" alt="Snake animation" />
+
+###
