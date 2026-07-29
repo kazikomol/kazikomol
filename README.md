@@ -2,7 +2,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">I am a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a leading university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.</h6>
+<h4 data-importer="text" align="left">I am a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a leading university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.</h6>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">🔭   I’m currently working on a turf management system.<br>🤝   I’m looking to collaborate on uniq project  which can be solve problem.<br>🌱   I’m currently learning Node.js and Figma ;<br>👨🏻‍💻   Most of my projects are available on Github<br>💬   Ask me about anything tech related, I am happy to help;</h6>
+<h4 data-importer="text" align="left">🔭   I’m currently working on a turf management system.<br>🤝   I’m looking to collaborate on uniq project  which can be solve problem.<br>🌱   I’m currently learning Node.js and Figma ;<br>👨🏻‍💻   Most of my projects are available on Github<br>💬   Ask me about anything tech related, I am happy to help;</h6>
 
 ###
 
