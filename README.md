@@ -8,7 +8,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Undergraduate+CS+student+;And+a+Full+stack+web+developer" alt="Typing SVG" /></a></p>
 
 
-<h4 data-importer="text" align="left">I am a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a leading university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.</h4>
+<h4 data-importer="text" align="left">I am a tech enthusiast and an ambitious Web Developer from Bangladesh. Currently, I am pursuing my Bachelor's degree in Computer Science & Engineering (CSE) at a private university in Bangladesh. I have a strong passion for solving complex technical challenges and building modern web applications.</h4>
 
 ###
 
